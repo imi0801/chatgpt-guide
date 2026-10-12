@@ -177,6 +177,7 @@ https://chatgpt.com/api/auth/session
 - [Claude Pro 多少钱？国内充值价格与开通方式](https://github.com/imi0801/claude-guide)
 - [SuperGrok 怎么开通？国内微信充值价格与流程](https://github.com/imi0801/grok-guide)
 - [ChatGPT Plus 新手充值教程（GoPlus 版）](https://github.com/imi0801/chatgpt-plus-goplus)
+- [ChatGPT Plus 人民币多少钱？税费、汇率与报价怎么算](https://imi0801.github.io/chatgpt-plus-guide/chatgpt-plus-price-cny/)
 
 ## 更新记录
 
