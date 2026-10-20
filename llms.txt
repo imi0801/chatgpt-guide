@@ -1,0 +1,16 @@
+# ChatGPT 充值教程
+
+> ChatGPT 怎么充值？2026 年国内给自己的账号充值 ChatGPT Plus / Pro 的完整教程：充值入口、支付宝 / 微信付款步骤、Plus 与 Pro 各档人民币价格、多久到账、充值失败和没到账怎么处理。不要密码，不换账号，原路退款。
+
+## 页面
+
+- [ChatGPT 充值怎么充？2026 国内充值 ChatGPT Plus / Pro 教程：支付宝、微信、价格、到账](https://imi0801.github.io/chatgpt-guide/): ChatGPT 怎么充值？2026 年国内给自己的账号充值 ChatGPT Plus / Pro 的完整教程：充值入口、支付宝 / 微信付款步骤、Plus 与 Pro 各档人民币价格、多久到账、充值失败和没到账怎么处理。不要密码，不换账号，原路退款。
+- [支付宝充值 ChatGPT Plus 教程 2026：手机端全流程、手续费、账单与退款](https://imi0801.github.io/chatgpt-guide/alipay/): 用支付宝给自己的 ChatGPT 账号充值 Plus / Pro 的完整教程：手机浏览器端一步步操作、电脑端扫码付款、为什么不要在支付宝 App 内置浏览器里操作、2% 手续费怎么算、支付宝账单怎么显示、退款原路退回支付宝。
+- [微信充值 ChatGPT Plus 教程 2026：内置浏览器的坑、扫码 vs 跳转、免手续费](https://imi0801.github.io/chatgpt-guide/wechat/): 用微信支付给自己的 ChatGPT 账号充值 Plus / Pro 的教程：为什么微信内置浏览器打不开会话页、手机端和电脑端分别怎么付、加客服微信直接开通可免 2% 手续费、微信账单怎么看、退款原路退回微信零钱或银行卡。
+- [ChatGPT Pro 充值多少钱？2026 Pro 100 / 200 / 500 人民币价格与选档](https://imi0801.github.io/chatgpt-guide/pro/): ChatGPT Pro 国内充值价格表：Pro 100 约 ¥830、Pro 200 约 ¥1,500、Pro 500 约 ¥4,100，与官方 $100 / $200 / $500 的汇率差怎么算；按 Codex 和 GPT-5 Pro 用量选档的建议；Plus 升 Pro 会覆盖现有会员；Codex 额度包另购。
+- [ChatGPT 充值失败 / 没到账怎么办？2026 排查表：充值中不动、校验失败、还是 Free](https://imi0801.github.io/chatgpt-guide/failed/): ChatGPT 充值失败或付款后没到账的处理流程：订单停在「充值中」、粘贴会话信息校验失败、账号在 Team 工作区或欠费宽限期被拦、付了钱 ChatGPT 还是 Free、账单显示「套餐已取消」是不是失败、退款原路退回、找售后要带哪些凭证。按现象查原因和处理。
+
+## 来源
+
+- 仓库：https://github.com/imi0801/chatgpt-guide
+- 内容许可：CC BY-NC-SA 4.0
