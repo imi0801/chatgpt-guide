@@ -1,6 +1,6 @@
 # ChatGPT 充值怎么充？2026 国内充值 ChatGPT Plus / Pro 教程：支付宝、微信、价格、到账
 
-> 最后更新：2026 年 10 月 20 日 · 本站只讲一件事：在国内怎么用人民币给**自己的** ChatGPT 账号充值 Plus / Pro。
+> 最后更新：2026 年 11 月 11 日 · 本次按当天套餐页复核了人民币价格，Pro 500 由 ¥4,100 更正为 ¥4,000，其余各档未变。本站只讲一件事：在国内怎么用人民币给**自己的** ChatGPT 账号充值 Plus / Pro。
 
 先把「充值」这两个字说清楚。这里说的 ChatGPT 充值，是**用支付宝或微信付人民币，由平台把 Plus / Pro 会员开到你现在正在用的那个 ChatGPT 账号上**。不是买一个别人注册好的账号，不是合租，也不需要你把密码交给任何人。付款后一般 3 分钟内生效，账号里的历史对话、自定义指令、GPTs 全部保留。
 
@@ -16,12 +16,12 @@
 | **Plus** | **¥165 / 月** | $20 / 月 | 最常充的档位，日常写作、学习、Codex 都够 |
 | **Pro 100** | **¥830 / 月** | $100 / 月 | Codex 额度约为 Plus 的 5 倍，可用 Pro 模型 |
 | **Pro 200** | **¥1,500 / 月** | $200 / 月 | 重度 Codex / 研究型用户 |
-| Pro 500 | ¥4,100 / 月 | $500 / 月 | 团队级用量，带高速档 |
+| Pro 500 | ¥4,000 / 月 | $500 / 月 | 团队级用量，带高速档 |
 
 三件事要知道：
 
 - **在线付款有 2% 的支付通道手续费**，下单页会把商品金额和预估手续费分开显示。不想出这笔钱，可以加平台客服微信，由客服直接开通，免手续费。
-- **价格随汇率小幅浮动**，上表是 2026 年 10 月的参考价，以 [套餐页](https://okai66.com/plus-price) 实时显示为准。
+- **价格随汇率小幅浮动**，上表是 2026 年 11 月的参考价，以 [套餐页](https://okai66.com/plus-price) 实时显示为准。
 - 充值价比官方美元价折算高 ¥25–30，这是渠道、汇率、手续费和售后的成本。**明显低于 ¥140 的 Plus 充值基本是黑卡**，开通后几天到几周会被 OpenAI 回滚。为什么是这个价位，[价格表](https://imi0801.github.io/chatgpt-plus-recharge-guide/price/) 一页讲得更细。
 
 ## ChatGPT 充值 4 步流程（支付宝 / 微信）
@@ -109,7 +109,7 @@
 
 ### Q：ChatGPT 充值多少钱？
 
-Plus 约 ¥165 / 月，Pro 100 约 ¥830，Pro 200 约 ¥1,500，Pro 500 约 ¥4,100。在线付款另加 2% 手续费，加客服微信开通免手续费。以套餐页实时价为准。
+Plus 约 ¥165 / 月，Pro 100 约 ¥830，Pro 200 约 ¥1,500，Pro 500 约 ¥4,000。在线付款另加 2% 手续费，加客服微信开通免手续费。以套餐页实时价为准。
 
 ### Q：支付宝和微信哪个更好用？
 
@@ -158,7 +158,7 @@ ChatGPT 充值就是用支付宝 / 微信把 Plus / Pro 开到你自己的账号
 
 ---
 
-**English summary: How to top up ChatGPT Plus / Pro from China with Alipay or WeChat Pay (2026).** OpenAI's checkout rejects most Chinese bank cards and does not accept Alipay or WeChat Pay. A top-up service bridges the gap: you pick a plan, paste a password-free session string so the service knows which account to upgrade, pay in RMB via Alipay or WeChat Pay, and the subscription lands on your own account within about three minutes. Reference prices: Plus ¥165, Pro 100 ¥830, Pro 200 ¥1,500, Pro 500 ¥4,100, plus a 2% online payment fee (waived when ordering through customer service on WeChat). Anything far below ¥140 for Plus is almost certainly paid with stolen cards and will be reversed. Walkthrough and troubleshooting at [okai66.com](https://okai66.com/).
+**English summary: How to top up ChatGPT Plus / Pro from China with Alipay or WeChat Pay (2026).** OpenAI's checkout rejects most Chinese bank cards and does not accept Alipay or WeChat Pay. A top-up service bridges the gap: you pick a plan, paste a password-free session string so the service knows which account to upgrade, pay in RMB via Alipay or WeChat Pay, and the subscription lands on your own account within about three minutes. Reference prices: Plus ¥165, Pro 100 ¥830, Pro 200 ¥1,500, Pro 500 ¥4,000, plus a 2% online payment fee (waived when ordering through customer service on WeChat). Anything far below ¥140 for Plus is almost certainly paid with stolen cards and will be reversed. Walkthrough and troubleshooting at [okai66.com](https://okai66.com/).
 
 ## 关于本文
 
